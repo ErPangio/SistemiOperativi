@@ -2,5 +2,6 @@
 
 int main()
 {
-    "sei froio"
+    printf("sei froio");
+    return 0;
 }
